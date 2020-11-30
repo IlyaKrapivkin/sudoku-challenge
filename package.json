@@ -1,0 +1,28 @@
+{
+  "name": "sudoku_self1",
+  "version": "1.0.0",
+  "description": "## Введение",
+  "main": "runner.js",
+  "scripts": {
+    "test": "npx jasmine",
+    "start": "node run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IlyaKrapivkin/sudoku_self1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IlyaKrapivkin/sudoku_self1/issues"
+  },
+  "homepage": "https://github.com/IlyaKrapivkin/sudoku_self1#readme",
+  "devDependencies": {
+    "eslint": "^7.10.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jasmine": "^4.1.1",
+    "jasmine": "^3.6.1"
+  }
+}
